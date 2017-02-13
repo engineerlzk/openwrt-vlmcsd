@@ -1,0 +1,16 @@
+Package: vlmcsd
+Version: svn1107-1
+Depends: libc, libpthread
+Source: package/vlmcsd
+License: MIT
+LicenseFiles: LICENSE
+Section: net
+Maintainer: Wind4
+Architecture: brcm63xx
+Installed-Size: 55353
+Filename: vlmcsd_svn1107-1_brcm63xx.ipk
+Size: 55607
+MD5Sum: da5406fd86f48bba219051c93aa5fdb2
+SHA256sum: f5e599c7c904bc17384c7cb23e9554621a46d223d4f2cd7c48a19d7d37e18aa9
+Description:  vlmcsd is a KMS Emulator in C.
+
