@@ -7,11 +7,11 @@ LicenseFiles: LICENSE
 Section: net
 Maintainer: Wind4
 Architecture: ar71xx
-Installed-Size: 49347
+Installed-Size: 49350
 Filename: vlmcsd_svn1107-1_ar71xx.ipk
-Size: 49761
-MD5Sum: 55ecd278b546a8c862e0b7abdf0611b1
-SHA256sum: a3e2e8fc711cb691a8e0f0f953566fdd59202e4780b01a7a4bdcdf40264e4c55
+Size: 49847
+MD5Sum: a4178ec8f348f9c25cb1d5f171e39378
+SHA256sum: 53d647bebbcd886770c566d9ef6b151af04045343d823d55c41d72e8e0ea1a79
 Description:  vlmcsd is a KMS Emulator in C.
 
 Package: vlmcsd
