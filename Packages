@@ -87,11 +87,11 @@ LicenseFiles: LICENSE
 Section: net
 Maintainer: Wind4
 Architecture: ramips_24kec
-Installed-Size: 54070
+Installed-Size: 54071
 Filename: vlmcsd_svn1107-1_ramips_24kec.ipk
-Size: 54192
-MD5Sum: 5e060c125a29f61342893749437f30a4
-SHA256sum: d9f0219050743b23b82d435ad1cb5ab4610d8e3ba314ef0fe4334659370fd0a8
+Size: 54276
+MD5Sum: 915ef13c3e6170dbff746caf114b19ad
+SHA256sum: e9bbb55b846258cac3ef9f79e08bb56f62f1acf47dbf0d44620999de5053e803
 Description:  vlmcsd is a KMS Emulator in C.
 
 Package: vlmcsd
