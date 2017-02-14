@@ -22,9 +22,9 @@ LicenseFiles: LICENSE
 Section: net
 Maintainer: Wind4
 Architecture: mips_24kc
-Installed-Size: 50839
+Installed-Size: 50840
 Filename: vlmcsd_svn1107-1_mips_24kc.ipk
-Size: 51518
-SHA256sum: 168284e31db072529464d985c80a5e7cb1cbdd0a1aaee25f152e38eafee0e8fc
+Size: 51210
+SHA256sum: 8d9827b3f65855f994362d2a6dd2a6bdbd569133d6c5c0112f47b27b5a8483d4
 Description:  vlmcsd is a KMS Emulator in C.
 
