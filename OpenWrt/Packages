@@ -86,6 +86,22 @@ License: MIT
 LicenseFiles: LICENSE
 Section: net
 Maintainer: Wind4
+Architecture: x86_64
+Installed-Size: 51434
+Filename: vlmcsd_svn1107-1_x86_64.ipk
+Size: 51489
+MD5Sum: 83304ad42f6f29dca30fe19db8a149bd
+SHA256sum: 2dbe5116ebe9a300a112f9c1e7f519f7416a8c781b3b88862af879e83fe7b9a0
+Description:  vlmcsd is a KMS Emulator in C.
+
+Package: vlmcsd
+Version: svn1107-1
+Depends: libc, libpthread
+Source: package/vlmcsd
+License: MIT
+LicenseFiles: LICENSE
+Section: net
+Maintainer: Wind4
 Architecture: x86
 Installed-Size: 49510
 Filename: vlmcsd_svn1107-1_x86.ipk
