@@ -201,9 +201,9 @@ Maintainer: Wind4
 Architecture: ramips_24kec
 Installed-Size: 54275
 Filename: vlmcsd_svn1108-1_ramips_24kec.ipk
-Size: 54503
-MD5Sum: ca89b687dbfc0ed6e8acbf67c1a55ef2
-SHA256sum: 84cb57c67395022355ee188f224b4e6ce5e8ddde9396dee47877238d4779e80c
+Size: 54801
+MD5Sum: 87231e93cb3084d4beb6747e8839b79a
+SHA256sum: c88870b50850e5594efc1403e4e4c0025becc9faf44e4ac2045986477f41575a
 Description:  vlmcsd is a KMS Emulator in C.
 
 Package: vlmcsd
