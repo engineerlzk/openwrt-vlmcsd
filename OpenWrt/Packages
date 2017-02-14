@@ -167,11 +167,11 @@ LicenseFiles: LICENSE
 Section: net
 Maintainer: Wind4
 Architecture: brcm63xx
-Installed-Size: 55605
+Installed-Size: 55606
 Filename: vlmcsd_svn1108-1_brcm63xx.ipk
-Size: 55819
-MD5Sum: 24c56133b1edd86b795b6819a2db128c
-SHA256sum: 0ac75e389fac5ef949fe373c88415f4d1e422891e24f94472d38f769111ecc3f
+Size: 55831
+MD5Sum: 01332502ea0ea3cc2ddbd3f0e26dff88
+SHA256sum: d137a44625f621be4e929a438db9e900b0f6fa6536fa612ab52b88d5c0df49fe
 Description:  vlmcsd is a KMS Emulator in C.
 
 Package: vlmcsd
