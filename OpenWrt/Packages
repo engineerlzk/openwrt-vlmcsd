@@ -183,11 +183,11 @@ LicenseFiles: LICENSE
 Section: net
 Maintainer: Wind4
 Architecture: mvebu
-Installed-Size: 51419
+Installed-Size: 51426
 Filename: vlmcsd_svn1108-1_mvebu.ipk
-Size: 51362
-MD5Sum: d5a521d88a94ec67cffa2907e2046cd0
-SHA256sum: 1fb4a3c52c0d02a934cf7354ef3098b44c24bbdce1981c4e3ddeee108f173e3a
+Size: 51901
+MD5Sum: 461eef04b48d1b260d56e51dcb8e3fe3
+SHA256sum: f89b96b30e6878760d4b2acb840a3cc3e31dab36c8f37b75df1f57ba647e1bd0
 Description:  vlmcsd is a KMS Emulator in C.
 
 Package: vlmcsd
