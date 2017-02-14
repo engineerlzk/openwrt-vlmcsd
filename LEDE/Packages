@@ -6,10 +6,10 @@ License: MIT
 LicenseFiles: LICENSE
 Section: net
 Maintainer: Wind4
-Architecture: arm_cortex-a9_vfpv3
-Installed-Size: 53240
-Filename: vlmcsd_svn1107-1_arm_cortex-a9_vfpv3.ipk
-Size: 53927
-SHA256sum: 76dd21fd221be428d3f4527cce682ec3bb8c2bbe6764b6bf8ab05f80431d7d38
+Architecture: i386_pentium4
+Installed-Size: 51809
+Filename: vlmcsd_svn1107-1_i386_pentium4.ipk
+Size: 52177
+SHA256sum: bf8f104b1d534b941a6462fe411aab517050beb4a506bdb0c10b6a80e3f58eae
 Description:  vlmcsd is a KMS Emulator in C.
 
