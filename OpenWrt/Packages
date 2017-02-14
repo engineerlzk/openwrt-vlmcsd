@@ -231,10 +231,10 @@ LicenseFiles: LICENSE
 Section: net
 Maintainer: Wind4
 Architecture: x86
-Installed-Size: 49748
+Installed-Size: 49746
 Filename: vlmcsd_svn1108-1_x86.ipk
-Size: 50202
-MD5Sum: 6a51149644ee97f95a2e54674a19d5e3
-SHA256sum: 53b853c2a86a691409d5e8b6891f8409340e19ef5c6075393b8ca47a98960835
+Size: 50183
+MD5Sum: 43e5cd5b5f7dcce030919e5628edc2e9
+SHA256sum: c8681b1be595f429f34d9391f55d03630c33d149ef885087e9dbe737c899c2b4
 Description:  vlmcsd is a KMS Emulator in C.
 
