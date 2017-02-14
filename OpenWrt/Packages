@@ -6,11 +6,11 @@ License: MIT
 LicenseFiles: LICENSE
 Section: net
 Maintainer: Wind4
-Architecture: mvebu
-Installed-Size: 51161
-Filename: vlmcsd_svn1107-1_mvebu.ipk
-Size: 51438
-MD5Sum: 1302dac3848b3e19ce773342ed670e8a
-SHA256sum: fe8167032279375018970f34abeb8cc92b7da226d293feea20596394dea1c2d6
+Architecture: bcm53xx
+Installed-Size: 51159
+Filename: vlmcsd_svn1107-1_bcm53xx.ipk
+Size: 51580
+MD5Sum: 0dcb96c232022fad47556af5152e15e2
+SHA256sum: 7dc5d7d6d8a13a3d125d4070364321e62414f08abdacb09afb4c8ff20f50e26b
 Description:  vlmcsd is a KMS Emulator in C.
 
