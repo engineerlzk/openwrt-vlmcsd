@@ -127,10 +127,10 @@ LicenseFiles: LICENSE
 Section: net
 Maintainer: Wind4
 Architecture: arm_cortex-a9_vfpv3
-Installed-Size: 53498
+Installed-Size: 53495
 Filename: vlmcsd_svn1108-1_arm_cortex-a9_vfpv3.ipk
-Size: 54268
-SHA256sum: 4714c652d9d3e7531098884793b96e274a3bb4cbc8add316bdf6be1472325fdd
+Size: 54111
+SHA256sum: a043f6a995370082d6e229a8dad35e3aa7bde53a4ca38f8a4e56583e9b3bcd57
 Description:  vlmcsd is a KMS Emulator in C.
 
 Package: vlmcsd
