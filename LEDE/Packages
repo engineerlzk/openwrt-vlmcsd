@@ -204,8 +204,8 @@ Maintainer: Wind4
 Architecture: mips_mips32
 Installed-Size: 57843
 Filename: vlmcsd_svn1108-1_mips_mips32.ipk
-Size: 58161
-SHA256sum: a5eea7b71e11bef85c3977bf783ec79d90df0c3d84ed78bf9aa362267836676c
+Size: 58118
+SHA256sum: fc117b80dfbd618a60a479f10530db8968c1e6a2bdd8d2f7119d2a7767bc6eb1
 Description:  vlmcsd is a KMS Emulator in C.
 
 Package: vlmcsd
